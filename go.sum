@@ -1,6 +1,6 @@
-github.com/1354092549/wsrpc v0.3.0 h1:Mg/VeHZ3vj3Tq2Gam+URDZVcM5FQvS99D7SDMmRvOkw=
-github.com/1354092549/wsrpc v0.3.0/go.mod h1:rWsn6JBtSbbM4h80KWkdvI2m2M57tLmhihqNEbv64Fg=
-github.com/UBotPlatform/UBot.Common.Go v0.0.0-20200824104127-0d5fd887a0f5 h1:hXTxk4hy3UuQHUorTxZw4KFUWSkrWyR3eUoYEhBkTxw=
-github.com/UBotPlatform/UBot.Common.Go v0.0.0-20200824104127-0d5fd887a0f5/go.mod h1:Chff13a62HckVcFyzYqF0wqlnw3KMuYwMH7Tnc7shOo=
+github.com/1354092549/wsrpc v0.3.2 h1:6uaXV++oMm/J89LcnVAbtCTawX7W5y8K8cWqRiDp5SQ=
+github.com/1354092549/wsrpc v0.3.2/go.mod h1:rWsn6JBtSbbM4h80KWkdvI2m2M57tLmhihqNEbv64Fg=
+github.com/UBotPlatform/UBot.Common.Go v0.0.0-20200827043313-ad387e1de1df h1:kVsSqOUJ5bw5CTPtAZ57LUvGv95DQCFVq9VpVq+bk2g=
+github.com/UBotPlatform/UBot.Common.Go v0.0.0-20200827043313-ad387e1de1df/go.mod h1:ewUF1R7vqx6SA2FoZ6hje9ED2uyRsh6nnrWFCuZqprs=
 github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0Ufc=
 github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
